@@ -2,3 +2,6 @@
 "    printf(\"Hello, world\\n\");" 
 "    return 0;" 
 "}" 
+"void main(void) {" 
+"    printf(\"Hello, world\\n\");" 
+"}" 
